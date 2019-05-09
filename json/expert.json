@@ -1,0 +1,59 @@
+[
+  {
+    "name": "高手",
+    "job": "前端大牛",
+    "curriculum": "185",
+    "studynum": "1500000",
+    "recommend": "如何防脱发",
+    "img": "images/people01.png"
+  },{
+    "name": "马云",
+    "job": "阿里巴巴老板",
+    "curriculum": "5",
+    "studynum": "10000000000",
+    "recommend": "如何让别人开心的给我钱",
+    "img": "images/people03.png"
+  },{
+    "name": "马化腾",
+    "job": "银河系企鹅创始人",
+    "curriculum": "15",
+    "studynum": "0",
+    "recommend": "不充钱还玩游戏?",
+    "img": "images/people02.png"
+  },{
+    "name": "周杰伦",
+    "job": "歌手",
+    "curriculum": "500",
+    "studynum": "8546321",
+    "recommend": "歌曲制作",
+    "img": "images/people04.jpg"
+  },{
+    "name": "奥巴马",
+    "job": "美国前总统",
+    "curriculum": "25",
+    "studynum": "1000000",
+    "recommend": "美国的导弹飞过来都不怕",
+    "img": "images/people05.jpg"
+  },{
+    "name": "梁非凡",
+    "job": "警察",
+    "curriculum": "2",
+    "studynum": "950",
+    "recommend": "鸭屎啦",
+    "img": "images/people06.jpg"
+  },{
+    "name": "金坷垃",
+    "job": "化肥",
+    "curriculum": "5",
+    "studynum": "10000000000",
+    "recommend": "圣地亚哥",
+    "img": "images/people07.jpg"
+  },{
+    "name": "马云",
+    "job": "阿里巴巴老板",
+    "curriculum": "5",
+    "studynum": "10000000000",
+    "recommend": "如何让别人开心的给我钱",
+    "img": "images/people03.png"
+  }
+]

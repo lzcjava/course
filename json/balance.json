@@ -1,0 +1,27 @@
+[
+  {
+    "price": "6",
+    "isActive": "false"
+  },{
+    "price": "30",
+    "isActive": "false"
+  },{
+    "price": "50",
+    "isActive": "false"
+  },{
+    "price": "108",
+    "isActive": "false"
+  },{
+    "price": "208",
+    "isActive": "false"
+  },{
+    "price": "418",
+    "isActive": "false"
+  },{
+    "price": "1048",
+    "isActive": "false"
+  },{
+    "price": "1598",
+    "isActive": "false"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "money": "200",
+    "date": "2019-02-30",
+    "num": "2020-10-12",
+    "color": "#CD5C5C",
+    "color2": "#3B3B3B",
+    "id": "01",
+    "state": false,
+    "direction": "right"
+  },{
+    "money": "500",
+    "date": "2019-01-30",
+    "num": "2020-05-02",
+    "color": "#87CEFA",
+    "color2": "#EEA9B8",
+    "id": "02",
+    "state": false,
+    "direction": "top"
+  },{
+    "money": "800",
+    "date": "2019-03-30",
+    "num": "2020-06-20",
+    "color": "#5E5E5E",
+    "color2": "#7A88FF",
+    "id": "03",
+    "state": false,
+    "direction": "bottom"
+  },{
+    "money": "1000",
+    "date": "2019-03-30",
+    "num": "2020-03-25",
+    "color": "#CD2626",
+    "color2": "#7A88FF",
+    "id": "04",
+    "state": false,
+    "direction": "bottom right"
+  }
+  
+]

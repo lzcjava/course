@@ -13,7 +13,7 @@
     "name": "雷克萨",
     "date": "1月30日",
     "note": "一般般",
-    "img": "/images/01-banner.png"
+    "img": "images/01-banner.png"
   },{
     "name": "马云",
     "date": "1月21日",
@@ -23,21 +23,21 @@
     "name": "马化腾",
     "date": "1月20日",
     "note": "还不如看游戏",
-    "img": "/images/04-banner.png"
+    "img": "images/04-banner.png"
   },{
     "name": "周杰伦",
     "date": "5月21日",
     "note": "哦",
-    "img": "/images/06-banner.png"
+    "img": "images/06-banner.png"
   },{
     "name": "PDD",
     "date": "3月21日",
     "note": "这啥啊",
-    "img": "/images/tttttttt.png"
+    "img": "images/tttttttt.png"
   },{
     "name": "五五开",
     "date": "2月20日",
     "note": "不错",
-    "img": "/images/01-banner.png"
+    "img": "images/01-banner.png"
   }
 ]

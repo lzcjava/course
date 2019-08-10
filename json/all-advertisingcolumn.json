@@ -1,7 +1,7 @@
 [
   {
     "title":"听得懂的金融思维课",
-    "img":"/images/11-banner.png",
+    "img":"images/11-banner.png",
     "id":"1",
     "studypeople": "210",
     "money": "95.00",
@@ -18,7 +18,7 @@
   },
   {
     "title":"能帮你赚到钱的50节商业思维提升课",
-    "img": "/images/12-banner.png",
+    "img": "images/12-banner.png",
     "id":"2",
     "studypeople": "5800",
     "money": "66.00",
@@ -35,7 +35,7 @@
   },
   {
     "title":"25堂通识阅读课 带你打破知识边界",
-    "img":"/images/13-banner.png",
+    "img":"images/13-banner.png",
     "id":"3",
     "studypeople": "1230",
     "money": "99.00",
@@ -52,7 +52,7 @@
   },
   {
     "title":"2018让你的年度计划有效实施",
-    "img":"/images/14-banner.png",
+    "img":"images/14-banner.png",
     "id":"4",
     "studypeople": "960",
     "money": "169.00",
@@ -69,7 +69,7 @@
   },
   {
     "title":"高级人像摄影后期",
-    "img":"/images/15-banner.png",
+    "img":"images/15-banner.png",
     "id":"5",
     "studypeople": "765",
     "money": "153.00",
@@ -86,7 +86,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"6",
     "studypeople": "12344",
     "money": "22.00",
@@ -103,7 +103,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"7",
     "studypeople": "12344",
     "money": "22.00",
@@ -120,7 +120,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"8",
     "studypeople": "12344",
     "money": "22.00",
@@ -137,7 +137,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"9",
     "studypeople": "12344",
     "money": "22.00",
@@ -154,7 +154,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"10",
     "studypeople": "12344",
     "money": "22.00",
@@ -171,7 +171,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"11",
     "studypeople": "12344",
     "money": "22.00",
@@ -188,7 +188,7 @@
   },
   {
     "title":"和贺嘉教练一起学演讲",
-    "img":"/images/16-banner.png",
+    "img":"images/16-banner.png",
     "id":"12",
     "studypeople": "12344",
     "money": "22.00",

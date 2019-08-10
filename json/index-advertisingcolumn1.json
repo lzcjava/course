@@ -1,12 +1,12 @@
 [
   {
     "title":"听得懂的金融思维课",
-    "img":"/images/11-banner.png",
+    "img":"images/11-banner.png",
     "id":"1"
   },
-  {"title":"能帮你赚到钱的50节商业思维提升课","img": "/images/12-banner.png","id":"2"},
-  {"title":"25堂通识阅读课 带你打破知识边界","img":"/images/13-banner.png","id":"3"},
-  {"title":"2018让你的年度计划有效实施","img":"/images/14-banner.png","id":"4"},
-  {"title":"高级人像摄影后期","img":"/images/15-banner.png","id":"5"},
-  {"title":"和贺嘉教练一起学演讲","img":"/images/16-banner.png","id":"6"}
+  {"title":"能帮你赚到钱的50节商业思维提升课","img": "images/12-banner.png","id":"2"},
+  {"title":"25堂通识阅读课 带你打破知识边界","img":"images/13-banner.png","id":"3"},
+  {"title":"2018让你的年度计划有效实施","img":"images/14-banner.png","id":"4"},
+  {"title":"高级人像摄影后期","img":"images/15-banner.png","id":"5"},
+  {"title":"和贺嘉教练一起学演讲","img":"images/16-banner.png","id":"6"}
 ]
